@@ -1,3 +1,3 @@
 # weather-App
 ## Screenshot
-![Screenshot](https://www.hizliresim.com/esfpa7f.png)
+![Screenshot](https://i.hizliresim.com/esfpa7f.png)
